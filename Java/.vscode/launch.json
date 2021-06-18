@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch prgrm8",
+            "request": "launch",
+            "mainClass": "prgrm8",
+            "projectName": "Java_c2d178e5"
+        },
+        {
+            "type": "java",
+            "name": "Launch prgrm7",
+            "request": "launch",
+            "mainClass": "prgrm7",
+            "projectName": "Java_c2d178e5"
+        },
+        {
+            "type": "java",
+            "name": "Launch prgrm6",
+            "request": "launch",
+            "mainClass": "prgrm6",
+            "projectName": "Java_c2d178e5"
+        },
+        {
+            "type": "java",
+            "name": "Launch prgrm2",
+            "request": "launch",
+            "mainClass": "prgrm2",
+            "projectName": "Java_c2d178e5"
+        },
+        {
+            "type": "java",
+            "name": "Launch prgrm1",
+            "request": "launch",
+            "mainClass": "prgrm1",
+            "projectName": "Java_c2d178e5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
