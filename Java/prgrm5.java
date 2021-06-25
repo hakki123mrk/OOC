@@ -1,3 +1,4 @@
+package Java;
 class A {
     int a = 10;
     void methA() {

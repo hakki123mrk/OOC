@@ -1,3 +1,4 @@
+package Java;
 abstract class D {
     int p;
 
